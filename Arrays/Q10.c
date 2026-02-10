@@ -18,3 +18,4 @@ int isPalindrome(char str[]) {
     }
     return 1; // Is a palindrome
 }
+// session 2
