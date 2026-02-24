@@ -46,3 +46,4 @@ struct Node* deleteFirstOccurrence(struct Node* head, int key) {
     }
     return head; // Return the original head if key not found
 }
+// session 2
