@@ -79,3 +79,4 @@ int main() {
     freeList(head);
     return 0;
 }
+// session 2
