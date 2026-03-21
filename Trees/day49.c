@@ -23,3 +23,4 @@ struct TreeNode* insertIntoBST(struct TreeNode* root, int val) {
         root->right = insertIntoBST(root->right, val);
     return root;
 }
+// session 2
