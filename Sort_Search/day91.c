@@ -21,3 +21,5 @@ int main() {
     printf("%d\n", interpolationSearch(arr, n, target));
     return 0;
 }
+
+// session 2
