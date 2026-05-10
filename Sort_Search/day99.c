@@ -19,3 +19,5 @@ int main() {
     printf("Peak element: %d at index %d\n", arr[idx], idx);
     return 0;
 }
+
+// session 2
