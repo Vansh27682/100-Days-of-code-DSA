@@ -33,3 +33,5 @@ int main() {
     printf("%.5f\n", findMedianSortedArrays(A, m, B, n));
     return 0;
 }
+
+// session 2
